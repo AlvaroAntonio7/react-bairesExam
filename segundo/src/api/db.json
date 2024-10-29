@@ -1,0 +1,21 @@
+{
+    "stocks" :[
+        {
+            "company": "Adani Power Ltd.",
+            "price":130
+        },
+        {
+        "company": "Bank of Baroda",
+        "price": 100
+        },
+        {
+        "company": "Central Bank  on Inc",
+        "price":21.65
+        },
+        {
+        "company": "Bharat Heavy Electr",
+        "price":21.65
+        }
+
+    ]
+}

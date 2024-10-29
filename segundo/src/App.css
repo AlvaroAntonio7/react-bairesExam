@@ -1,0 +1,45 @@
+@import url('https://fonts.gooleapis.com/css2?family=Montserrat')
+
+*{
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.navbar{
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+.navbar h3{
+  color: white;
+}
+
+.nav-link{
+  color: gray;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+.active{
+  color: lime;
+}
+
+.nav-link:hover{
+  color: white;
+}
+
+.page{
+  padding: 2rem;
+}
+
+.width{
+  width: 18rem;
+}
+
+.buy{
+  width: 200px;
+}
